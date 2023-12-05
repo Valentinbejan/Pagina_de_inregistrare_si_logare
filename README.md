@@ -7,6 +7,13 @@ Am adăugat funcționalitatea de verificare a existenței utilizatorului după c
 Am creat și implementat alte pagini pentru utilizator, cum ar fi pagina principală (HomePage.js) sau pagina de profil (ProfilePage.js). Ne-am asigurat că aceste pagini sunt accesibile doar utilizatorilor autentificați prin aplicarea unui sistem de autentificare sau restricționare a accesului.
 
 
+
+
+
+https://github.com/Valentinbejan/Pagina_de_inregistrare_si_logare/assets/118570823/181b3466-019f-4a3e-a3eb-66d486264cff
+
+
+
 rulare: 
 
 npm install
